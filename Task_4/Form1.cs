@@ -39,6 +39,9 @@ namespace Task_4
             g.DrawLine(new Pen(Color.Black, 2), (float)(height*3.14)-105, 0,
                 (float)(height * 3.14)-105, pictureBox1.Height);
 
+
+
+
         }
 
         private void timer1_Tick(object sender, EventArgs e)
